@@ -2,7 +2,7 @@ package cl.speedfast.model;
 
 /**
  *
- * Representa una plantilla genérica (clase abstracta) para el Pedido de SpeedFast.
+ * Representa la clase para el Pedido de SpeedFast.
  */
 public class Pedido {
     private int idPedido;
